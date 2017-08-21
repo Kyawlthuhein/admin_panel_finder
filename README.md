@@ -1,6 +1,7 @@
 # admin_panel_finder
-Python 2.7 Admin Panel Finder Command. 
-# admin_penal
+Python 2.7 Admin Panel Finder Command.
+You can run this command on Kali-Linux or any other Command App
+# admin_panel
 #How to Use 
 #require python 2.7 on your ...anything
 #command "chmod +x admin_panel_finder.py"
